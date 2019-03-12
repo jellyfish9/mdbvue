@@ -6,6 +6,8 @@
     </mdb-row>
     <hr class="mb-4" />
     <mdb-accordion :panes="panes"/>
+    <h4 class="mt-4">material accordion</h4>
+    <mdb-accordion :panes="panes" material/>
   </mdb-container>
 </template>
 
